@@ -1,4 +1,4 @@
-# Image Captioning and Visual Question Answering
+# AI Image Captioning and Visual Question Answering
 
 This project uses Salesforce's BLIP (Bootstrapping Language-Image Pre-training) models to generate descriptive captions for images and answer questions about them. It provides an interactive command-line interface for selecting an image, viewing a generated caption, and optionally asking a question about the image.
 
