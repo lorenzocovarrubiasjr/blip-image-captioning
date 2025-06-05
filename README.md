@@ -20,3 +20,22 @@ This project uses Salesforce's BLIP (Bootstrapping Language-Image Pre-training) 
 Install dependencies with:
 ```bash
 pip install transformers pillow torch
+```
+
+### Example Output
+```bash 
+🤖 Select an image to generate a caption for:
+1️⃣ Image 1
+2️⃣ Image 2
+3️⃣ Image 3
+> 1
+🤖🖼️ Generated Caption:
+A serene lake surrounded by mountains under a clear blue sky.
+❓ Would you like to ask a question regarding this image?
+Insert Y or N:
+> Y
+Enter your question:
+What is the color of the sky?
+🤖 AI's Answer: The sky is blue.
+👋 Thank you, come again!
+```
